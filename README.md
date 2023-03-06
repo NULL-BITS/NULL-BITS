@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="![image](https://user-images.githubusercontent.com/80842080/223251922-12e301ad-2e5a-4eb5-a5f4-5fcc0743cb65.png)" width="512px"/>
+<img src="https://imgs.search.brave.com/SMp1eCNUviJBES3n8GPnK22FWsHcdbIhFjoTxjzp7W0/rs:fit:700:623:1/g:ce/aHR0cHM6Ly9haHNl/ZWl0LmNvbS9raW5n/LWluY2x1ZGUvdXBs/b2Fkcy8yMDIxLzA1/L3RodW1iXzE4OTg5/NTYxOV8xMTE0NzU5/NDI1Njk5MDU1XzI3/NTUzOTMyNjU0NDE2/MjI0NF9uLTQzNzAw/MzYzOTguanBn" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=0)](https://visitcount.itsvg.in)
