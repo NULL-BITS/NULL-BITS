@@ -49,9 +49,9 @@
 <div>
   <h1><p align="center"><b>📊 GitHub Stats:</b></p></h1>
   <p width="100%">
-	<img  src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></br>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false"></br></br></br>
+	<img  src="https://github-readme-stats.vercel.app/api?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomFang1&theme=gotham&hide_border=false"></br></br></br>
   
   </p>
 </div>
@@ -87,7 +87,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TFang&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/TFang) 
