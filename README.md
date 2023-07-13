@@ -1,13 +1,13 @@
-
-<p align="center"><b>🌐 Socials:</b><br><br>
-  <a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
+<div>
+  <h1><p align="center"><b>🌐 Socials:</b></p></h1>
+  <p align="center">
+    <a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
     <a href="#"><sub><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></sub></a> |
-      <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
-      </p>
-        <p align="center">💻 Tech Stack:</p>
-
+    <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
+  </p></div></br>
 
 <div>
+  <h1><p align="center">💻 Tech Stack:</p></h1>
   <p align="center" width="100%">
     <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
     <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
@@ -29,14 +29,18 @@
     <img  src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
     <img  src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white">
     <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+  </p></div></br>
+
+<div>
+  <h1><p align="center"><b>📊 GitHub Stats:</b></p></h1>
+  <p align="center" width="100%">
+  <img  src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </p>
 </div>
 
-
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true).anim-hover-grow<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TomFang1&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
