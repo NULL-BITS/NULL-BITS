@@ -49,8 +49,8 @@
 <div>
   <h1><p align="center"><b>📊 GitHub Stats:</b></p></h1>
   <p width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false"></br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"></br></br></br>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false"></br></br></br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></br>
   </p>
 </div>
