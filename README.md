@@ -1,15 +1,4 @@
 <div>
-	<h1><p align="center"><b>WORKFLOW:</b></p></h1>
-	<p align="center">
-		- [x] Learning
-		- [x] Fixing
-		- [x] Struggling
-	</p>
-</div>
-</br>
-
-
-<div>
   <h1><p align="center">💻 Tech Stack:</p></h1>
   <p align="center">
     <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
@@ -37,15 +26,9 @@
 </br>
 
 
-
-<div align="center">
-	<b>SNAKE EATING MY CONTRIBUTIONS</b>
-	<img src="https://github.com/TomFang1/TomFang1/blob/output/github-contribution-grid-snake.svg">
-</div>
-
 <div>
-  <h1><p align="center"><b>🌐 Socials:</b></p></h1>
   <p align="center">
+	  <a> HELLO I'M A DEVELEOPER FROM GERMANY.</br></br> CONTACT ME ON:</a></br>
     <a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
     <a href="#"><sub><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></sub></a> |
     <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
@@ -54,6 +37,29 @@
 </br>
 
 
+
+<div>
+	<h1><p align="center"><b>WORKFLOW:</b></p></h1>
+	<p align="center">
+		- [x] Learning
+		- [x] Fixing
+		- [x] Struggling
+	</p>
+</div>
+</br>
+
+
+
+
+
+
+
+
+<div align="center">
+	<h1><p align="center"><b>SNAKE EATING MY CONTRIBUTIONS</b></p></h1>
+	<img src="https://github.com/TomFang1/TomFang1/blob/output/github-contribution-grid-snake.svg">
+</div>
+</br>
 
 
 <div>
@@ -64,6 +70,9 @@
 	<img align="Bottom" src="https://github-readme-stats.vercel.app/api?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 </br>
+
+
+
 
 
 <div>
@@ -81,6 +90,16 @@
 	</p>
 </div>
 </br>
+
+<div>
+  <p align="center">
+    <a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
+    <a href="#"><sub><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></sub></a> |
+    <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
+  </p>
+</div>
+</br>
+
 
 <div>
 	<h1><p align="center"><b>😂 Random Dev Meme</b></p></h1>
