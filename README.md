@@ -48,9 +48,9 @@
 
 <div>
 <h1><p align="center"><b>📊 GitHub Stats:</b></p></h1>
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TomFang1&theme=gotham&hide_border=false"></br>
-	</br><img src="https://github-readme-stats.vercel.app/api?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
+	<img align="Top" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+	<img align="Top" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TomFang1&theme=gotham&hide_border=false"></br>
+	</br><img align="Bottom" src="https://github-readme-stats.vercel.app/api?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 </br>
 
