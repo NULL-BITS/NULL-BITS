@@ -6,7 +6,13 @@
 		- [x] Struggling
 	</p>
 </div>
+</br></br>
 </br>
+
+
+<div align="center">
+	<img src="https://github.com/TomFang1/TomFang1/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 <div>
   <h1><p align="center"><b>🌐 Socials:</b></p></h1>
@@ -92,10 +98,5 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/TFang) 
 
 
-<div align="center">
-	<br>
-  <img src="mysvg.svg" width="800" height="400" alt="Click to see the source">
-	<br>
-</div>
 
 
