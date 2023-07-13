@@ -48,10 +48,10 @@
 
 <div>
   <h1><p align="center"><b>📊 GitHub Stats:</b></p></h1>
-  <p align="center" width="100%">
-  <img  src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <p width="100%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </p>
 </div>
 
