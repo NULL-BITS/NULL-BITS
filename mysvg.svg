@@ -107,10 +107,10 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
-				<p align="center" width="100%" class="hvr-grow">
-					<img src="https://img.shields.io/badge/css3-%231572B6.svg">
-				</p>
 			</div>
+			<p align="center" width="100%" class="hvr-grow">
+				<img src="https://img.shields.io/badge/css3-%231572B6.svg">
+			</p>
 		</div>
 	</foreignObject>
 </svg>
