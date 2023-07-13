@@ -45,13 +45,22 @@
 </div>
 </br>
 
+
 <div>
 <h1><p align="center"><b>📊 GitHub Stats:</b></p></h1>
-<img  src="https://github-readme-stats.vercel.app/api?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomFang1&theme=gotham&hide_border=false">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomFang1&theme=gotham&hide_border=false"></br></br></br></br></br>
+	<img  src="https://github-readme-stats.vercel.app/api?username=TomFang1&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"></br>
+	
 
+</div>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 <div>
 	<h1><p align="center"><b>✍️ Random Dev Quote</b></p></h1>
