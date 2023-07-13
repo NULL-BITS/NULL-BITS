@@ -107,10 +107,11 @@
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
+					<a align="center" width="100%" class="hvr-grow">
+						zrzdfg
+					</a>
 			</div>
 		</div>
 	</foreignObject>
-	<p align="center" width="100%" class="hvr-grow">
-		zrzdfg
-	</p>
+
 </svg>
