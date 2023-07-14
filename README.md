@@ -114,9 +114,9 @@
 
 
 <div>
-	<h1><p align="center"><b>✍️ Random Dev Quote</b></p></h1>
-	<p align="center">
-		<a href="#"><sub><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></sub></a> 
+	<h1><p align="center">✍️ Random Dev Things </p></h1>
+	<p>
+		<a href="#" align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a> <img  align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 	</p>
 </div>
 </br>
@@ -131,17 +131,6 @@
 
 
 
-<div>
-	<h1><p align="center"><b>😂 Random Dev Meme</b></p></h1>
-	<p align="center">
-		<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-	</p>
-</div>
-</br>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TFang&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 <!-- real time -->
 <a href="https://moon-svg.minung.dev">
@@ -152,18 +141,19 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-2. 🔒 Closed issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-3. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-4. ❗ Opened issue [#2](https://github.com/TomFang1/readme-chess/issues/2) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
-5. ❗ Opened issue [#1](https://github.com/TomFang1/readme-chess/issues/1) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
+1. ❗ Opened issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+2. ❗ Opened issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+3. ❗ Opened issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+4. ❗ Opened issue [#253](https://github.com/trinib/trinib/issues/253) in [trinib/trinib](https://github.com/trinib/trinib)
+5. 🔒 Closed issue [#25](https://github.com/thiagoojack/packettracer-fedora/issues/25) in [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora)
 <!--END_SECTION:activity-->
+</br>
 
 
-[![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=8)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/TFang) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/TFang) [![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=8)](https://visitcount.itsvg.in)
 
 
 
