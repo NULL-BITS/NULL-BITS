@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
@@ -22,7 +16,6 @@
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
-
 
 
 <div>
@@ -117,7 +110,6 @@
 
 
 
-
 <div>
 	<h1><p align="center">✍️ Random Dev Things </p></h1>
 	<p>
@@ -133,9 +125,6 @@
 
 
 
-
-
-
 ---
 
 
@@ -146,8 +135,6 @@
 <h1>Cool Tech:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
-
-
 
 
 
