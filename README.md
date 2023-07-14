@@ -121,12 +121,15 @@
 <div>
 	<h1><p align="center">✍️ Random Dev Things </p></h1>
 	<p>
-		<a href="#" align="left"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a> <img  align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+		<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+		<img  align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 	</p>
 </div>
 </br>
 
+
 <div>
+	<br><br><br><br><br>
 	<h1><p align="center"><b>🏆 GitHub Trophies</b></p></h1>
 	<p align="center">
 		<a href="#"><sub><img src="https://github-profile-trophy.vercel.app/?username=TomFang1&theme=onestar&no-frame=true&no-bg=true&margin-w=4"></sub></a> 
@@ -136,25 +139,16 @@
 
 
 
-
-
-
-
-
-
 ---
-
-
-
-
-
-
 
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/TFang) [![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=8)](https://visitcount.itsvg.in)
+<br>
 
-  [![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
+<h1>Cool Tech:</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
 
 
 
