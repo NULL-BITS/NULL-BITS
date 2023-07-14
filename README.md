@@ -31,7 +31,7 @@
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fangtom01&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"></br>
 
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/438685803774738433)](https://discord.com/users/438685803774738433)
 
 
 
