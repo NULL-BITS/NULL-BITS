@@ -142,11 +142,11 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-2. ❗ Opened issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-3. ❗ Opened issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-4. ❗ Opened issue [#253](https://github.com/trinib/trinib/issues/253) in [trinib/trinib](https://github.com/trinib/trinib)
-5. 🔒 Closed issue [#25](https://github.com/thiagoojack/packettracer-fedora/issues/25) in [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora)
+1. 🔒 Closed issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+2. 🔒 Closed issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+3. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+4. ❗ Opened issue [#2](https://github.com/TomFang1/readme-chess/issues/2) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
+5. ❗ Opened issue [#1](https://github.com/TomFang1/readme-chess/issues/1) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
 <!--END_SECTION:activity-->
 </br>
 
