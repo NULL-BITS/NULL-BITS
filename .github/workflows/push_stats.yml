@@ -1,4 +1,4 @@
-name: README Info Update
+name: push_stats
 
 on:
   schedule:
