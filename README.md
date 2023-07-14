@@ -28,18 +28,14 @@
 <a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT ME ON:</p> 
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fangtom01&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true"></br>
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/438685803774738433)](https://discord.com/users/438685803774738433)
-
-
+<img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433"><br><br><br><br><br><br><br><br><br>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fangtom01&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
 
 
 
 <div>
   <h1><p align="center">💻 Tech Stack:</p></h1>
-  <p align="center">
+  <p align="left">
     <img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
     <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
     <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
@@ -51,7 +47,7 @@
     <img  src="https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639">
     <img  src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white">
     <img  src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white">
-    <img  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"></br>
+    <img  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white">
     <img  src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
     <img  src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
     <img  src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi">
@@ -82,10 +78,8 @@
 
 
 
-
-
 <div align="center">
-	<h1><p align="center"><b>SNAKE EATING MY CONTRIBUTIONS</b></p></h1>
+	<h1><p align="center"><b>SNAKE EATING MY CONTRIBUTIONS</b></p></h1>	
 	<img src="https://github.com/TomFang1/TomFang1/blob/output/github-contribution-grid-snake.svg">
 </div>
 </br>
