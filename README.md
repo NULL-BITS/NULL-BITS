@@ -71,9 +71,9 @@
 <div>
 	<h1><p align="center"><b>WORKFLOW:</b></p></h1>
 	<p align="center">
-		- [x] Learning
-		- [x] Fixing
+		- [x] Learning		
 		- [x] Struggling
+		- [x] Fixing
 	</p>
 </div>
 </br>
