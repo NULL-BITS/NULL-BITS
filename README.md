@@ -1,3 +1,9 @@
+
+[![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
+
+
+
+
 <div>
   <h1><p align="center">💻 Tech Stack:</p></h1>
   <p align="center">
