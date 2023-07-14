@@ -1,7 +1,17 @@
+<div>
+  <p align="center">
+	  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a>
+	 <a></br></br> CONTACT ME ON:</a></br>
+	<a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
+    <a href="#"><sub><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></sub></a> |
+    <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
+  </p>
+</div>
+</br>
+
 
 [![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=WELCOME%20ON%20MY%20GIT%20👋&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
@@ -63,16 +73,7 @@
   height="25"
 />
 
-<div>
-  <p align="center">
-	  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a>
-	 <a></br></br> CONTACT ME ON:</a></br>
-	<a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
-    <a href="#"><sub><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></sub></a> |
-    <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
-  </p>
-</div>
-</br>
+
 
 
 
