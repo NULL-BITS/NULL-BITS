@@ -101,20 +101,12 @@
 </div>
 </br>
 
-<div>
-  <p align="center">
-    <a href="#"><sub><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></sub></a> |
-    <a href="#"><sub><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></sub></a> |
-    <a href="#"><sub><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></sub></a>
-  </p>
-</div>
-</br>
 
 
 <div>
 	<h1><p align="center"><b>😂 Random Dev Meme</b></p></h1>
 	<p align="center">
-		<a href="#"><sub><img src="https://imgs.search.brave.com/SMp1eCNUviJBES3n8GPnK22FWsHcdbIhFjoTxjzp7W0/rs:fit:700:623:1/g:ce/aHR0cHM6Ly9haHNl/ZWl0LmNvbS9raW5n/LWluY2x1ZGUvdXBs/b2Fkcy8yMDIxLzA1/L3RodW1iXzE4OTg5/NTYxOV8xMTE0NzU5/NDI1Njk5MDU1XzI3/NTUzOTMyNjU0NDE2/MjI0NF9uLTQzNzAw/MzYzOTguanBn"></sub></a> 
+		<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 	</p>
 </div>
 </br>
