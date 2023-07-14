@@ -1,6 +1,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=WELCOME%20ON%20MY%20GIT%20👋&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 
 
 
@@ -120,6 +122,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TFang&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
+<!-- real time -->
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a>
 
 
 ---
