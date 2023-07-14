@@ -29,8 +29,8 @@ jobs:
       # Use pip to install the dependencies and then run the script
       - name: Play chess
         run: |
-          pip install -r https://github.com/TomFang1/readme-chess/requirements.txt
-          python https://github.com/TomFang1/readme-chess/main.py
+          pip install -r https://github.com/TomFang1/readme-chess/blob/master/requirements.txt
+          python https://github.com/TomFang1/readme-chess/blob/master/main.py
 
       # Create new commit with the changed files and push it to GitHub
       - name: Commit and push changes
