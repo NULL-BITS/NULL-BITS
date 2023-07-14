@@ -4,7 +4,8 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=WELCOME%20ON%20MY%20GIT%20👋&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
 
 <div>
   <h1><p align="center">💻 Tech Stack:</p></h1>
@@ -33,7 +34,12 @@
 </div>
 </br>
 
-
+<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+  alt="chesspawn"
+  width="25"
+  height="25"
+/>
 
 <div>
   <p align="center">
