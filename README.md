@@ -35,16 +35,6 @@
 <a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 
-<p align="left">
-	<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-2. 🔒 Closed issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-3. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-4. ❗ Opened issue [#2](https://github.com/TomFang1/readme-chess/issues/2) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
-5. ❗ Opened issue [#1](https://github.com/TomFang1/readme-chess/issues/1) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
-	<!--END_SECTION:activity-->
-</p>
-
 
 <img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT:</p> 
 <img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433"><br><br><br><br><br><br><br><br><br>
@@ -94,7 +84,22 @@
 
 
 
+<h1><p align="left"><b>ACTIVITY:</b></p></h1>
 
+<!-- real time -->
+<a href="https://moon-svg.minung.dev">
+  <img align="right" src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a>
+
+
+<!--START_SECTION:activity-->
+1. 🔒 Closed issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+2. 🔒 Closed issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+3. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+4. ❗ Opened issue [#2](https://github.com/TomFang1/readme-chess/issues/2) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
+5. ❗ Opened issue [#1](https://github.com/TomFang1/readme-chess/issues/1) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
+<!--END_SECTION:activity-->
+<br>
 
 
 <div align="center">
@@ -136,16 +141,16 @@
 
 
 
-<!-- real time -->
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-</a>
+
+
+
 
 
 ---
 
 
-</br>
+
+
 
 
 
