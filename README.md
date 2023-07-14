@@ -25,6 +25,17 @@
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
+
+
+<p align="left">
+	<!--START_SECTION:activity-->
+	<!--END_SECTION:activity-->
+</p>
+
+
+
+
+
 <a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 <img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT ME ON:</p> 
@@ -125,13 +136,7 @@
 
 ---
 
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-2. ❗ Opened issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-3. ❗ Opened issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
-4. ❗ Opened issue [#253](https://github.com/trinib/trinib/issues/253) in [trinib/trinib](https://github.com/trinib/trinib)
-5. 🔒 Closed issue [#25](https://github.com/thiagoojack/packettracer-fedora/issues/25) in [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora)
-<!--END_SECTION:activity-->
+
 </br>
 
 
