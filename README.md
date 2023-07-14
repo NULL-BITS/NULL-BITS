@@ -121,21 +121,19 @@
 <div>
 	<h1><p align="center">✍️ Random Dev Things </p></h1>
 	<p>
-		<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></br>
-		<img  align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+		<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+		<img  align="right" src="https://readme-jokes.vercel.app/api">
 	</p>
 </div>
-</br>
+</br></br></br></br></br></br>
 
 
-<div>
-	<br><br><br><br><br>
-	<h1><p align="center"><b>🏆 GitHub Trophies</b></p></h1>
-	<p align="center">
-		<a href="#"><sub><img src="https://github-profile-trophy.vercel.app/?username=TomFang1&theme=onestar&no-frame=true&no-bg=true&margin-w=4"></sub></a> 
-	</p></br></br></br>
-</div>
-</br>
+
+<h1 align="center">🏆 GitHub Trophies</h1>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=TomFang1&theme=onestar&no-frame=true&no-bg=true&margin-w=4">
+
+
+
 
 
 
