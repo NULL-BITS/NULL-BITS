@@ -121,7 +121,7 @@
 <div>
 	<h1><p align="center">✍️ Random Dev Things </p></h1>
 	<p>
-		<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+		<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></br>
 		<img  align="left" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 	</p>
 </div>
