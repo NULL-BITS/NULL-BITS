@@ -133,7 +133,7 @@
 	<h1><p align="center"><b>🏆 GitHub Trophies</b></p></h1>
 	<p align="center">
 		<a href="#"><sub><img src="https://github-profile-trophy.vercel.app/?username=TomFang1&theme=onestar&no-frame=true&no-bg=true&margin-w=4"></sub></a> 
-	</p>
+	</p></br></br></br>
 </div>
 </br>
 
