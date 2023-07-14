@@ -22,6 +22,11 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
+<!-- BEGIN CHESS BOARD -->
+
+
+
+
 <div>
   <h1><p align="center">💻 Tech Stack:</p></h1>
   <p align="center">
