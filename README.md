@@ -37,7 +37,7 @@
 
 
 <img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT:</p> 
-<img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433"><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433"><br><br><br><br><br><br><br><br><br><br><br>
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fangtom01&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
 
 
