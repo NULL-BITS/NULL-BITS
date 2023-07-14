@@ -22,8 +22,10 @@
 <!--START_SECTION_LANGUAGE:readme-info-->
 <!--END_SECTION_LANGUAGE:readme-info-->
 
-<!-- BEGIN CHESS BOARD -->
 
+<-- BEGIN CHESS BOARD --> 
+
+<-- END CHESS BOARD -->
 
 
 
