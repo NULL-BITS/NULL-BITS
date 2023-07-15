@@ -1,4 +1,3 @@
-
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
@@ -22,7 +21,7 @@
 	<a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+TO+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a><br>
 	<img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT:</p> <img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433">
 	<p align="left">
-		Hi 👋, I'm TomFang1</p> <br> - :de developer from Germany <br> - 🔭 I’m currently working on UE5 Game <br> - 🌱 I’m currently learning **Rust, Zig etc.** <br> - 📝 I regularly write articles when i solve a problem
+		Hi 👋, I'm TomFang1</p> <br> - 🇩🇪 developer from Germany <br> - 🔭 I’m currently working on UE5 Game <br> - 🌱 I’m currently learning **Rust, Zig etc.** <br> - 📝 I regularly write articles when i solve a problem
 	</p>
 	
 </div>
@@ -63,11 +62,9 @@
 
 <div>
 	<h1><p align="center"><b>WORKFLOW:</b></p></h1>
-	<p align="center">
-		- [x] Learning		
-		- [x] Struggling
-		- [x] Fixing
-	</p>
+	<p align="center">- [x] Learning</p>		
+	<p align="center">- [x] Struggling</p>
+	<p align="center">- [x] Fixing</p>
 </div>
 </br>
 
@@ -129,12 +126,9 @@
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/TFang) [![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=8)](https://visitcount.itsvg.in)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TFang) [![](https://visitcount.itsvg.in/api?id=TomFang1&icon=2&color=8)](https://visitcount.itsvg.in)
 <br>
 
 <h1>Cool Tech:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=css,rust,java,html,markdown,python,processing,unreal,go,nginx,mongodb,linux,raspberrypi,arduino,bash,docker,postman,javascript,git,idea,stackoverflow,wordpress&theme=dark)](https://skillicons.dev)
-
-
-
