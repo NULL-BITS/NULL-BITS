@@ -82,11 +82,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/NULL-BITS/NULL-BITS/pull/4) in [NULL-BITS/NULL-BITS](https://github.com/NULL-BITS/NULL-BITS)
-2. 🔒 Closed issue [#3](https://github.com/NULL-BITS/NULL-BITS/issues/3) in [NULL-BITS/NULL-BITS](https://github.com/NULL-BITS/NULL-BITS)
-3. 🔒 Closed issue [#2](https://github.com/NULL-BITS/NULL-BITS/issues/2) in [NULL-BITS/NULL-BITS](https://github.com/NULL-BITS/NULL-BITS)
-4. 🔒 Closed issue [#1](https://github.com/NULL-BITS/NULL-BITS/issues/1) in [NULL-BITS/NULL-BITS](https://github.com/NULL-BITS/NULL-BITS)
-5. ❗ Opened issue [#2](https://github.com/NULL-BITS/readme-chess/issues/2) in [NULL-BITS/readme-chess](https://github.com/NULL-BITS/readme-chess)
+1. 🎉 Merged PR [#4](https://github.com/TomFang1/TomFang1/pull/4) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+2. 🔒 Closed issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+3. 🔒 Closed issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+4. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+5. ❗ Opened issue [#2](https://github.com/TomFang1/readme-chess/issues/2) in [TomFang1/readme-chess](https://github.com/TomFang1/readme-chess)
 <!--END_SECTION:activity-->
 <br>
 
