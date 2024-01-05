@@ -82,9 +82,9 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3725](https://github.com/hyprwm/Hyprland/issues/3725) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. ❗ Opened issue [#712](https://github.com/carlospolop/hacktricks/issues/712) in [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks)
-3. 🔒 Closed issue [#3](https://github.com/TomFang1/TomFang1/issues/3) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+1. 🗣 Commented on [#535](https://github.com/chibisafe/chibisafe/issues/535#issuecomment-1877951337) in [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe)
+2. ❗ Opened issue [#535](https://github.com/chibisafe/chibisafe/issues/535) in [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe)
+3. ❗ Opened issue [#3725](https://github.com/hyprwm/Hyprland/issues/3725) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 4. 🔒 Closed issue [#2](https://github.com/TomFang1/TomFang1/issues/2) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
 5. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
 <!--END_SECTION:activity-->
