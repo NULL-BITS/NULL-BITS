@@ -82,11 +82,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. 🗣 Commented on [#3725](https://github.com/hyprwm/Hyprland/issues/3725#issuecomment-1975223746) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-3. 🗣 Commented on [#535](https://github.com/chibisafe/chibisafe/issues/535#issuecomment-1877951337) in [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe)
-4. ❗ Opened issue [#535](https://github.com/chibisafe/chibisafe/issues/535) in [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe)
-5. 🔒 Closed issue [#1](https://github.com/TomFang1/TomFang1/issues/1) in [TomFang1/TomFang1](https://github.com/TomFang1/TomFang1)
+1. 🔒 Closed issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+2. 🗣 Commented on [#5181](https://github.com/hyprwm/Hyprland/issues/5181#issuecomment-2009180941) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. 🗣 Commented on [#5181](https://github.com/hyprwm/Hyprland/issues/5181#issuecomment-2009179849) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+4. ❗ Opened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+5. 🗣 Commented on [#3725](https://github.com/hyprwm/Hyprland/issues/3725#issuecomment-1975223746) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 <br>
 
