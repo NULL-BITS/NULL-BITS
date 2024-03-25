@@ -82,11 +82,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. 🗣 Commented on [#5181](https://github.com/hyprwm/Hyprland/issues/5181#issuecomment-2009180941) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-3. 🗣 Commented on [#5181](https://github.com/hyprwm/Hyprland/issues/5181#issuecomment-2009179849) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. ❗ Opened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. 🗣 Commented on [#3725](https://github.com/hyprwm/Hyprland/issues/3725#issuecomment-1975223746) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🔓 Reopened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+2. 🗣 Commented on [#124](https://github.com/SpacehuhnTech/WiFiDuck/issues/124#issuecomment-2018746197) in [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck)
+3. 🔒 Closed issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+4. 🗣 Commented on [#5181](https://github.com/hyprwm/Hyprland/issues/5181#issuecomment-2009180941) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+5. 🗣 Commented on [#5181](https://github.com/hyprwm/Hyprland/issues/5181#issuecomment-2009179849) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 <br>
 
