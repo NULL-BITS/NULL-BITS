@@ -82,11 +82,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NULL-BITS/PentestArch/issues/1#issuecomment-2076964658) in [NULL-BITS/PentestArch](https://github.com/NULL-BITS/PentestArch)
-2. 🔒 Closed issue [#1](https://github.com/NULL-BITS/PentestArch/issues/1) in [NULL-BITS/PentestArch](https://github.com/NULL-BITS/PentestArch)
-3. 🔓 Reopened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. 🗣 Commented on [#124](https://github.com/SpacehuhnTech/WiFiDuck/issues/124#issuecomment-2018746197) in [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck)
-5. 🔒 Closed issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🔒 Closed issue [#5](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max/issues/5) in [BKR-IAxB-24/Bankautomat-Frido-Tom-Max](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max)
+2. 🗣 Commented on [#5](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max/issues/5#issuecomment-2149166233) in [BKR-IAxB-24/Bankautomat-Frido-Tom-Max](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max)
+3. 🗣 Commented on [#1](https://github.com/NULL-BITS/PentestArch/issues/1#issuecomment-2076964658) in [NULL-BITS/PentestArch](https://github.com/NULL-BITS/PentestArch)
+4. 🔒 Closed issue [#1](https://github.com/NULL-BITS/PentestArch/issues/1) in [NULL-BITS/PentestArch](https://github.com/NULL-BITS/PentestArch)
+5. 🔓 Reopened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 <br>
 
