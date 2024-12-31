@@ -82,7 +82,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max/issues/5) in [BKR-IAxB-24/Bankautomat-Frido-Tom-Max](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max)
+1. ❗ Opened issue [#8914](https://github.com/hyprwm/Hyprland/issues/8914) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 2. 🗣 Commented on [#5](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max/issues/5#issuecomment-2149166233) in [BKR-IAxB-24/Bankautomat-Frido-Tom-Max](https://github.com/BKR-IAxB-24/Bankautomat-Frido-Tom-Max)
 3. 🗣 Commented on [#1](https://github.com/NULL-BITS/PentestArch/issues/1#issuecomment-2076964658) in [NULL-BITS/PentestArch](https://github.com/NULL-BITS/PentestArch)
 4. 🔒 Closed issue [#1](https://github.com/NULL-BITS/PentestArch/issues/1) in [NULL-BITS/PentestArch](https://github.com/NULL-BITS/PentestArch)
