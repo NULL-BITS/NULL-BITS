@@ -97,31 +97,6 @@
 </br>
 
 
-
-<div>
-<h1><p align="Center"><b>📊 Some cool Stats:</b></p></h1>
-	<img align="Top" align="left "src="https://github-readme-streak-stats.herokuapp.com/?user=NULL-BITS&theme=gotham&hide_border=false">
-</div>
-</br></br>
-</br>
-</br>
-
-
-
-
-
-<div>
-	<h1><p align="center">✍️ Good Quotes </p></h1>
-	<p>
-		<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></br></br></br></br></br></br></br>
-		<img  align="left" src="https://readme-jokes.vercel.app/api"></br>
-	</p>
-</div>
-
-</br></br></br></br></br>
-
-
-
 ---
 
 
