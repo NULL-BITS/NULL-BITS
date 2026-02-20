@@ -21,12 +21,13 @@
 
 
 <div>
+	<h1>About me</h1>
 	<p align="left">
-		<br>  🇩🇪 From Germany <br>  🌱 I’m currently learning Rust <br> 
+		<br>  🇩🇪 From Germany <br>  🌱 I’m currently learning Rust
 	</p>
-	
 </div>
 
+</br>
 
 <h1><p align="left"><b>ACTIVITY:</b></p></h1>
 
