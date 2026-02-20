@@ -60,18 +60,6 @@
 </br>
 
 
-
-
-<div>
-	<h1><p align="center"><b>WORKFLOW:</b></p></h1>
-	<p align="center">- [x] Learning</p>		
-	<p align="center">- [x] Struggling</p>
-	<p align="center">- [x] Fixing</p>
-</div>
-</br>
-
-
-
 <h1><p align="left"><b>ACTIVITY:</b></p></h1>
 
 <!-- real time -->
