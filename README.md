@@ -22,14 +22,13 @@
 
 <div>
 	<a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a><br>
-	<img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT:</p> <img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433">
+	<img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT:</p> 
 	<p align="left">
 		Hi 👋, I'm NULL-BITS</p> <br>  🇩🇪 developer from Germany <br>  🔭 I’m currently improving my Skills <br>  🌱 I’m currently learning Rust <br>  📝 I regularly write articles when i solve a problem
 	</p>
 	
 </div>
 
-<br><br><br><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=fangtom01&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">
 
 
 
@@ -102,9 +101,6 @@
 <div>
 <h1><p align="Center"><b>📊 Some cool Stats:</b></p></h1>
 	<img align="Top" align="left "src="https://github-readme-streak-stats.herokuapp.com/?user=NULL-BITS&theme=gotham&hide_border=false">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULL-BITS&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</br></br>
-	<img align="Bottom" src="https://github-readme-stats.vercel.app/api?username=NULL-BITS&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 </br>
 
@@ -120,9 +116,6 @@
 </div>
 
 </br></br></br></br></br>
-
-<h1 align="center">🏆 Trophies</h1>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=NULL-BITS&theme=onestar&no-frame=true&no-bg=true&margin-w=4">
 
 
 
