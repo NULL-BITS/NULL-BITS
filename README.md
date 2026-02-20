@@ -24,7 +24,7 @@
 	<a href="https://git.io/typing-svg"><img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=5002&pause=5000&color=43CD1A&center=true&width=435&lines=WELCOME+ON+MY+GIT%F0%9F%91%8B" alt="Typing SVG" /></a><br>
 	<img align="right" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"><img align="right" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"><img align="right" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"><p align="right"> CONTACT:</p> <img align="right" src="https://lanyard.cnrad.dev/api/438685803774738433">
 	<p align="left">
-		Hi 👋, I'm NULL-BITS</p> <br>  🇩🇪 developer from Germany <br>  🔭 I’m currently improving my Skills <br>  🌱 I’m currently learning Rust <br>  📝 I regularly write articles when i solve a problem
+		Hi 👋, I'm TFang</p> <br>  🇩🇪 developer from Germany <br>  🔭 I’m currently improving my Skills <br>  🌱 I’m currently learning Rust <br>  📝 I regularly write articles when i solve a problem
 	</p>
 	
 </div>
@@ -93,7 +93,7 @@
 
 <div align="center">
 	<h1><p align="center"><b>A SNAKE❗</b></p></h1>	
-	<img align="center" src="https://github.com/NULL-BITS/NULL-BITS/blob/output/github-contribution-grid-snake-dark.svg">
+	<img align="center" src="https://github.com/TFang/TFang/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 </br>
 
@@ -101,10 +101,10 @@
 
 <div>
 <h1><p align="Center"><b>📊 Some cool Stats:</b></p></h1>
-	<img align="Top" align="left "src="https://github-readme-streak-stats.herokuapp.com/?user=NULL-BITS&theme=gotham&hide_border=false">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULL-BITS&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+	<img align="Top" align="left "src="https://github-readme-streak-stats.herokuapp.com/?user=TFang&theme=gotham&hide_border=false">
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </br></br>
-	<img align="Bottom" src="https://github-readme-stats.vercel.app/api?username=NULL-BITS&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
+	<img align="Bottom" src="https://github-readme-stats.vercel.app/api?username=TFang&theme=gotham&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 </br>
 
@@ -122,7 +122,7 @@
 </br></br></br></br></br>
 
 <h1 align="center">🏆 Trophies</h1>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=NULL-BITS&theme=onestar&no-frame=true&no-bg=true&margin-w=4">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=TFang&theme=onestar&no-frame=true&no-bg=true&margin-w=4">
 
 
 
@@ -130,7 +130,7 @@
 
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TFang) [![](https://visitcount.itsvg.in/api?id=NULL-BITS&icon=2&color=8)](https://visitcount.itsvg.in)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TFang) [![](https://visitcount.itsvg.in/api?id=TFang&icon=2&color=8)](https://visitcount.itsvg.in)
 <br>
 
 <h1>Cool Tech:</h1>
