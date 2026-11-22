@@ -38,10 +38,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2387](https://github.com/openrazer/openrazer/issues/2387#issuecomment-2614590213) in [openrazer/openrazer](https://github.com/openrazer/openrazer)
-2. 🔒 Closed issue [#2387](https://github.com/openrazer/openrazer/issues/2387) in [openrazer/openrazer](https://github.com/openrazer/openrazer)
-3. ❗ Opened issue [#2387](https://github.com/openrazer/openrazer/issues/2387) in [openrazer/openrazer](https://github.com/openrazer/openrazer)
-4. ❗ Opened issue [#8914](https://github.com/hyprwm/Hyprland/issues/8914) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🗣 Commented on [#2458](https://github.com/zortos293/Lichii/issues/2458#issuecomment-7083809690) in [zortos293/Lichii](https://github.com/zortos293/Lichii)
+2. ℹ️ Labeled issue [#2458](https://github.com/zortos293/Lichii/issues/2458) in [zortos293/Lichii](https://github.com/zortos293/Lichii)
+3. ❗ Opened issue [#2458](https://github.com/zortos293/Lichii/issues/2458) in [zortos293/Lichii](https://github.com/zortos293/Lichii)
+4. ❗ Opened issue [#4716](https://github.com/ValveSoftware/csgo-osx-linux/issues/4716) in [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux)
 5. 🔓 Reopened issue [#5181](https://github.com/hyprwm/Hyprland/issues/5181) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 <br>
